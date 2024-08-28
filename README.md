@@ -113,6 +113,7 @@ print(len(x_test))
 ![image](https://github.com/user-attachments/assets/5423fa83-510b-44ee-9c8a-37264dd07321)
 
 ### SPLITTING THE TRAINING AND TESTING DATASET:
+![Screenshot 2024-08-28 141420](https://github.com/user-attachments/assets/f71da99b-0486-494f-af31-649e34212b77)
 
 
 ## RESULT:
